@@ -1,0 +1,27 @@
+body {
+  padding-top: 4rem !important;
+}
+Button {
+  padding: 0.6rem 1rem 0.6rem 1rem !important;
+  border-top: 1px solid black;
+}
+button:hover {
+  background-color: rgb(138, 43, 226) !important;
+}
+input {
+  outline: none !important;
+}
+input:focus {
+  outline: none !important;
+  border: 3px solid #333 !important;
+}
+.active {
+  background-color: rgb(138, 43, 226) !important;
+  color: #fff !important;
+  text-decoration: none;
+}
+.flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
